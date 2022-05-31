@@ -1,6 +1,6 @@
 ### KickStart Crowdcoin - Web3 App
 
-This Web3 App was developed while I took a course on Ethereum Development.
+This Web3 App I developed while I took a course on Ethereum Development.
 
 Primary aim is to help fund raising.  It does have a contract built with solidity, compiled & can be deployed for use.
 
