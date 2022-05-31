@@ -24,4 +24,9 @@ Run Test:
  - To run tests, in the project folder root directory, run `npm run test`. That'll use the mocha library to run all the tests written inside the  `test` folder.
 
 
+### Preview 
 
+[![](https://github.com/thellecodes/crowdfund-web3-app/blob/master/preview/1.png?raw=true)]()
+
+
+[![](https://github.com/thellecodes/crowdfund-web3-app/blob/master/preview/2.png?raw=true)]()
